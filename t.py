@@ -1,0 +1,13 @@
+Flask
+sqlalchemy
+psycopg2-binary
+scikit-learn
+pandas
+numpy
+pyyaml
+fastapi
+uvicorn
+redis
+azure-cognitiveservices-anomalydetector
+requests
+pytest

@@ -1,0 +1,1 @@
+4. Configure the application by copying the example config and updating it with your details:
